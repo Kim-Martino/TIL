@@ -17,6 +17,7 @@
 - :wq : 파일을 저장한 후 종료한다.
 
 <b> git 설치 </b>
+
 		환경설정
 git config --global user.name "GitHubName"
 git config --global user.email "EmailAddress"
