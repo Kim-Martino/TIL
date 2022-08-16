@@ -19,18 +19,18 @@
 <b> git 설치 </b>
 
 		환경설정
-git config --global user.name "GitHubName"
-git config --global user.email "EmailAddress"
-git config --global core.editor "vim"
-git config --global core.page "cat"
+- git config --global user.name "GitHubName"
+- git config --global user.email "EmailAddress"
+- git config --global core.editor "vim"
+- git config --global core.page "cat"
 
 
-git config --global alias.lg "log --color --graph --
+- git config --global alias.lg "log --color --graph --
 pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)
 %C(bold blue)<%an>%Creset' --abbrev-commit"
 
 		설정확인
-git config --list 
+- git config --list 
 
 <b> git 명령어 </b>
 
